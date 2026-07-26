@@ -1,1 +1,1 @@
-export const API = 'http://127.0.0.1:5000/api'
+export const API = "https://hotzone-k0ps.onrender.com/api";
