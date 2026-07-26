@@ -9,7 +9,7 @@ const app = express();
 app.use(
   cors({
     origin: [
-      "https://hotzone-r040b9odc-k-ishwaryas-projects.vercel.app",,
+      "https://hotzone-r040b9odc-k-ishwaryas-projects.vercel.app",
       "http://localhost:5500",
       "http://localhost:5173",
     ],
